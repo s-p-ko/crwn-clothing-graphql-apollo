@@ -1,8 +1,8 @@
-## Studying React with this course:
+# Studying React with this course: [Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
 
-# [Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
+## Part One
 
-## The training app deployed on [Cloudflare pages](https://crwn.pages.dev/)
+## The app is deployed on [Cloudflare pages](https://crwn.pages.dev/)
 
 ## Progress
 
@@ -42,18 +42,8 @@
 
 ☑ Redux-Saga
 
-⬜ React Hooks - in progress...
+☑ React Hooks
 
----
+☑ Advanced React Hooks - _the end of the Part One_
 
-⬜ Advanced React Hooks
-
-⬜ Stripe Payments Part 2 - Backend
-
-⬜ Context API
-
-⬜ GraphQL + Apollo
-
-⬜ Mobile Support
-
-⬜ React Performance
+## _[The Part Two](https://github.com/s-p-ko/crwn-clothing-ver2) starts here_
