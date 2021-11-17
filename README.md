@@ -46,4 +46,6 @@
 
 ☑ Advanced React Hooks - _the end of the Part One_
 
+## In order to have a fully functioning e-commerce project with _payments_, it is needed to create a backend server for the Stripe payments. It was done in the Part Two. The app of the Part Two is is deployed on [Heroku](https://crwnv2.herokuapp.com/)
+
 ## _[The Part Two](https://github.com/s-p-ko/crwn-clothing-ver2) starts here_
